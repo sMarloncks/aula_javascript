@@ -1,2 +1,3 @@
-# aula_javascript
-Introdução ao JavaScript
+# aul## Jogo da cobrinha
+
+![SnakeGame](snakeGame.PNG)
