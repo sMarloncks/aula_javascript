@@ -1,3 +1,3 @@
-# aul## Jogo da cobrinha
+## Jogo da cobrinha
 
 ![SnakeGame](snakeGame.PNG)
